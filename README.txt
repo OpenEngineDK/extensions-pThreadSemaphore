@@ -1,4 +1,4 @@
- Author: OpenEngine Team
+Author: OpenEngine Team
 
 Homepage: http://www.openengine.dk/wiki/Extensions/pThreadSemaphore
 
