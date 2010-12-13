@@ -5,7 +5,7 @@ darcs-dev /extensions/pThreadSemaphore fh.daimi.au.dk:/users/cgd/code/extensions
 
 # windows libraries
 # add libary
-win32 /libraries http://openengine.dk/data/libraries/boost-win32.zip
+win32 /libraries http://openengine.dk/data/libraries/pthread-win32.zip
 
 # darwin libraries
 

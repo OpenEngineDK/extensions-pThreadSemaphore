@@ -4,7 +4,7 @@ SET( EXTENSION_NAME "Extensions_pThreadSemaphore")
 
 ADD_LIBRARY( ${EXTENSION_NAME}
 	dummy.cpp
-	Core\Semaphore.h
+	Core/Semaphore.h
 )
 
 TARGET_LINK_LIBRARIES( ${EXTENSION_NAME}
