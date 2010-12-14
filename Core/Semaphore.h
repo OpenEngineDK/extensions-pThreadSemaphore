@@ -12,7 +12,7 @@ class Semaphore
 	//----------
 	//Functions:
 	public:
-		inline Semaphore(int initVal = 1)
+		inline Semaphore(int initVal = 0)
 		{
 			sem_init(&semaphore, 0, initVal);
 		}
