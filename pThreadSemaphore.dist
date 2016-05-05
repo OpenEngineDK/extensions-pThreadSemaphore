@@ -1,7 +1,7 @@
 # project repository
 # (uncomment the following two lines after uploading your project)
-darcs /extensions/pThreadSemaphore http://openengine.dk/code/extensions/pThreadSemaphore/
-darcs-dev /extensions/pThreadSemaphore fh.daimi.au.dk:/users/cgd/code/extensions/pThreadSemaphore/
+git /extensions/pThreadSemaphore https://github.com/OpenEngineDK/extensions/pThreadSemaphore-.git
+git-dev /extensions/pThreadSemaphore git@github.com:OpenEngineDK/extensions/pThreadSemaphore-.git
 
 # windows libraries
 # add libary
